@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [12/2024] Our paper "[Intelligent Noise Mapping for Smart Cities: Solutions, Trends, and Research Opportunities](https://ieeexplore.ieee.org/document/10803925)" was published at IEEE Communications Magazine (Special Issue on Internt of Sound)!
 * [10/2024] Invited to serve as TPC member for [IEEE ICC'25 - NGNI Symposium](https://icc2025.ieee-icc.org/).
 * [10/2024] Invited to serve as TPC member for [IEEE CSCN'24](https://cscn2024.ieee-cscn.org/).
 * [09/2024] Our paper "[A Low-Cost and Infrastructure-Less LoRa Wireless Network Testbed for Cognitive Internet of Things](https://ieeexplore.ieee.org/document/10680422)" was accepted by IEEE Transactions on Cognitive Communications and Networking!

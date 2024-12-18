@@ -7,6 +7,10 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[ComMag]}$
+**Ye Liu**, Xiaoyuan Ma, and Carlo Alberto Boano,“**https://ieeexplore.ieee.org/document/10803925**”, *IEEE Communications Magazine*, 2024. 
+[PDF](https://chrisye-liu.github.io/files/ye24IoS.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10803925)
+
 $\color{red}{[TCCN]}$
 **Ye Liu**, Pei Tian, Carlo Alberto Boano, Xiaoyuan Ma, Qing Yang, and Honggang Wang,“**A Low-Cost and Infrastructure-Less LoRa Wireless Network Testbed for Cognitive Internet of Things**”, *IEEE Transactions on Cognitive Communications and Networking*, 2024. 
 [PDF](https://chrisye-liu.github.io/files/ye2024chirpbox.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10680422)
