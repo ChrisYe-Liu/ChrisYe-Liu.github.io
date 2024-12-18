@@ -8,7 +8,7 @@ author_profile: true
 Journals
 ------
 $\color{red}{[ComMag]}$
-**Ye Liu**, Xiaoyuan Ma, and Carlo Alberto Boano,“**https://ieeexplore.ieee.org/document/10803925**”, *IEEE Communications Magazine*, 2024. 
+**Ye Liu**, Xiaoyuan Ma, and Carlo Alberto Boano,“**Intelligent Noise Mapping for Smart Cities: Solutions, Trends, and Research Opportunities**”, *IEEE Communications Magazine*, 2024. 
 [PDF](https://chrisye-liu.github.io/files/ye24IoS.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10803925)
 
 $\color{red}{[TCCN]}$
